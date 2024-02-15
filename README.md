@@ -8,5 +8,6 @@
 #for better visulaization
 
 clone kafka manager
+
 1.unzip and generate cmak
 2. launch cmak after changing configuration 
